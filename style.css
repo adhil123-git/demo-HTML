@@ -1,0 +1,32 @@
+.div-sec{
+    display: inline-flex;  
+    margin-top:100px; 
+    border-color: black;
+}
+
+.ad-1{
+padding-left: 10px;
+padding-top: 60px;
+margin: 10px;
+}
+.sidebar{
+    background-color:rgb(63, 150, 250);
+    border: solid 2px;
+}
+
+
+.inp{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.inp1{
+    margin-bottom: 10px;
+}
+.ui{
+    background-color: rgba(222, 229, 231, 0.534);   border: solid 2px;;
+    padding-left: 50px;
+    padding-right: 50px;
+    display:inline-block;
+    margin: 200px;
+    margin-left: 500px;
+}
