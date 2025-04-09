@@ -14,9 +14,10 @@ function Click() {
 
     // Check username, email, and password
     if (email === emailcon && password === pass) {
-        alert("Login Success");
+        
         // Redirecting to the specified URL
         window.location.assign('http://127.0.0.1:5500/home.html');
+        alert("Login Success");
     } else {
         alert("Login failed");
     }
